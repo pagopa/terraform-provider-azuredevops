@@ -10,6 +10,6 @@ require (
 	github.com/hashicorp/terraform-plugin-sdk v1.17.2
 	github.com/microsoft/azure-devops-go-api/azuredevops v1.0.0-b3
 	github.com/stretchr/testify v1.7.0
-	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
+	golang.org/x/crypto v0.1.0
 	gopkg.in/yaml.v2 v2.3.0
 )
